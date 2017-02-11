@@ -1,4 +1,4 @@
-# Microsoft devours binary libs
+# Microsoft detours binary libs
 
 This is fully compiled libs of MS-detours. Set of libraries to hooking windows applications.
 
